@@ -1,0 +1,11 @@
+1: Fruta
+2: Verduda
+3: Carne
+4: Cereal
+5: Azucar
+6: Dulce
+7: Desyuno
+8: Medienda
+9: Comida
+10: Postre
+11: Cena
